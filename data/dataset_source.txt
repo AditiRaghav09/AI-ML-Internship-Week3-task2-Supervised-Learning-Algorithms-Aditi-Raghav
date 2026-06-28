@@ -1,0 +1,13 @@
+Datasets Used:
+
+1. Diabetes Dataset
+Source: Scikit-learn Built-in Dataset
+
+Description:
+The Diabetes dataset contains medical measurements from patients and is commonly used to demonstrate regression problems using Linear Regression.
+
+2. Wine Dataset
+Source: Scikit-learn Built-in Dataset
+
+Description:
+The Wine dataset contains chemical analysis of wines from three different cultivars. It is commonly used for classification tasks using Logistic Regression and Decision Tree.
